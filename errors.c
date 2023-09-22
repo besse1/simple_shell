@@ -1,10 +1,9 @@
 #include "shell.h"
 
 /**
- *_eputs - this function prints an input string
- * @str: the string to be printed
+ *_eputs - this function prints an input string.
+ * @str: the string to be printed.
  *
- * Return: Nothing
  */
 void _eputs(char *str)
 {
